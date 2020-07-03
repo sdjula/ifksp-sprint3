@@ -54,6 +54,8 @@ h3
 
 img{
 width: 200px;
+box-shadow: 3px 3px 7px black;
+margin: 10px;
 
 
 }
